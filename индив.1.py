@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 n = int(input("Value of n? "))
 k = n // 7
 r = n % 7
